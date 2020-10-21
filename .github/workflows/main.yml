@@ -1,0 +1,35 @@
+name: Semantic Release
+on:
+  push:
+    branches:
+    - 'main'
+
+jobs:
+  publish:
+    env:
+      CI: true
+      NODE_ENV: test
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Install Dependencies
+        run: npm install
+      - name: Test
+        run: npm test
+        env:
+          ES_CLOUD_ID: ${{ secrets.ES_CLOUD_ID }}
+          ES_CLOUD_USER: ${{ secrets.ES_CLOUD_USER }}
+          ES_CLOUD_PASS: ${{ secrets.ES_CLOUD_PASS }}
+      - name: Semantic Release
+        run: npx semantic-release
