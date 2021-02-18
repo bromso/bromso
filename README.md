@@ -16,6 +16,7 @@ I’ve worked my self up the production line and have deep knowledge of every as
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
 - [Tech stack](#tech-stack)
+- [Recommendations](#recommendations)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Versioning](#versioning)
@@ -91,39 +92,39 @@ open mailto:jonasbroms@icloud.com?subject=Reconnect after I saw your Github prof
 🧔 Bromso
 │
 ├── ⭕ Private
-│		├┄┄ 🐣 1982.born
-│		├┄┄ 🤼 1989.start.wrestling
-│		├┄┄ 💾 1990.got.amiga500+
-│		├┄┄ ⌨️ 1991.start.demoing
-│		├┄┄ 🏀 1995.start.basketball
-│		├┄┄ 🖥️ 1994.got.486intellmmx
-│		├┄┄ 🌐 1995.first.lanparty
-│		├┄┄ 🇵🇭 2006.travel.philippines
-│		├┄┄ 🇭🇰 2006.travel.hongkong
-│		├┄┄ 🇺🇸 2009.travel.usa
-│		├┄┄ 🇫🇷 2012.travel.france
-│		├┄┄ 💒 2013.got.married
-│		├┄┄ 🇦🇪 2013.moved.unitedarabemirates
-│		└─┄ 🇨🇾 2015.moved.cyprus
+│   ├┄┄ 🐣 1982.born
+│   ├┄┄ 🤼 1989.start.wrestling
+│   ├┄┄ 💾 1990.got.amiga500+
+│   ├┄┄ ⌨️ 1991.start.demoing
+│   ├┄┄ 🏀 1995.start.basketball
+│   ├┄┄ 🖥️ 1994.got.486intellmmx
+│   ├┄┄ 🌐 1995.first.lanparty
+│   ├┄┄ 🇵🇭 2006.travel.philippines
+│   ├┄┄ 🇭🇰 2006.travel.hongkong
+│   ├┄┄ 🇺🇸 2009.travel.usa
+│   ├┄┄ 🇫🇷 2012.travel.france
+│   ├┄┄ 💒 2013.got.married
+│   ├┄┄ 🇦🇪 2013.moved.unitedarabemirates
+│   └─┄ 🇨🇾 2015.moved.cyprus
 │
 ├── 🏫 School
-│		├┄┄ 🎓 1997.graduate.primaryschool
-│		├┄┄ 🎓 2001.graduate.highschool
-│		├┄┄ 🎓 2003.graduate.university
-│		├─┄ 🎓 2020.graduate.polytechnic.fullstackJS
-│		└─┄ 🎓 2021.graduate.polytechnic.amazonAWS
+│   ├┄┄ 🎓 1997.graduate.primaryschool
+│   ├┄┄ 🎓 2001.graduate.highschool
+│   ├┄┄ 🎓 2003.graduate.university
+│   ├─┄ 🎓 2020.graduate.polytechnic.fullstackJS
+│   └─┄ 🎓 2021.graduate.polytechnic.amazonAWS
 │
 └── 💼 Career
-		├┄┄ 👨‍💻 1999.assistant.västfastigheter
-		├┄┄ 👨‍💻 2004.technician.västfastigheter
-		├┄┄ 🪖 2002.specialist.army
-		├┄┄ 🎨 2004.designer.webcountryprod
-		├┄┄ 🎥 2004.assistant.sverigestelevision
-		├┄┄ 👔 2010.salesdirector.jonasolasspelab
-		├┄┄ 🎨 2010.creativedirector.ewebbyrånab
-		├┄┄ 👔 2016.marketingdirector.syncrasy
-		├┄┄ 🎨 2017.creativedirector.cygroup
-		└─┄ 🎨 present.creativedirector.odduse
+    ├┄┄ 👨‍💻 1999.assistant.västfastigheter
+    ├┄┄ 👨‍💻 2004.technician.västfastigheter
+    ├┄┄ 🪖 2002.specialist.army
+    ├┄┄ 🎨 2004.designer.webcountryprod
+    ├┄┄ 🎥 2004.assistant.sverigestelevision
+    ├┄┄ 👔 2010.salesdirector.jonasolasspelab
+    ├┄┄ 🎨 2010.creativedirector.ewebbyrånab
+    ├┄┄ 👔 2016.marketingdirector.syncrasy
+    ├┄┄ 🎨 2017.creativedirector.cygroup
+    └─┄ 🎨 present.creativedirector.odduse
 ```
 
 ### Why would I be a good fit?
@@ -160,17 +161,17 @@ These are some of the brands I've worked for during my years, either as a consul
 
 | <center><a href="https://www.volvocars.com/">Volvo</a></center>                                                                      | <center><a href="https://www.audi.com/">Audi</a></center>                                                                 | <center><a href="https://www.difc.ae/">DIFC</a></center>                                                                                                     | <center><a href="https://www.ica.se/">ICA</a></center>                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| <center><a href="https://www.volvocars.com/"><img src="img/brands/volvo.svg" alt="Volvo logo" height="64" width="64" /></a></center> | <center><a href="https://www.audi.com/"><img src="img/brands/audi.svg" alt="Audi logo" height="64" width="64" /></center> | <center><a href="https://www.difc.ae/"><img src="img/brands/difc.svg" alt="Dubai International Financial Center logo" height="64" width="64" /></a></center> | <center><a href="https://www.ica.se/"><img src="img/brands/ica.svg" alt="ICA logo" height="64" width="64" /> |
+| <center><a href="https://www.volvocars.com/"><img src="img/brands/volvo.svg" alt="Volvo logo" height="78" width="78" /></a></center> | <center><a href="https://www.audi.com/"><img src="img/brands/audi.svg" alt="Audi logo" height="78" width="78" /></center> | <center><a href="https://www.difc.ae/"><img src="img/brands/difc.svg" alt="Dubai International Financial Center logo" height="78" width="78" /></a></center> | <center><a href="https://www.ica.se/"><img src="img/brands/ica.svg" alt="ICA logo" height="78" width="78" /> |
 
 | <center><a href="https://www.qmatic.com/">Qmatic</a></center>                                                                       | <center><a href="https://www.preem.se/">Preem</a></center>                                                                      | <center><a href="https://www.hardrock.com/">Hard Rock</a></center>                                                                               | <center><a href="https://www.cat.com/">Caterpillar</a></center>                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| <center><a href="https://www.qmatic.com/"><img src="img/brands/qmatic.svg" alt="Qmatic logo" height="64" width="64" /></a></center> | <center><a href="https://www.preem.se/"><img src="img/brands/preem.svg" alt="PREEM logo" height="64" width="64" /></a></center> | <center><a href="https://www.hardrock.com/"><img src="img/brands/hard-rock.svg" alt="Hard-Rock Cafe logo" height="64" width="64" /></a></center> | <center><a href="https://www.cat.com/"><img src="img/brands/caterpillar.svg" alt="Caterpillar logo" height="64" width="64" /></a></center> |
+| <center><a href="https://www.qmatic.com/"><img src="img/brands/qmatic.svg" alt="Qmatic logo" height="78" width="78" /></a></center> | <center><a href="https://www.preem.se/"><img src="img/brands/preem.svg" alt="PREEM logo" height="78" width="78" /></a></center> | <center><a href="https://www.hardrock.com/"><img src="img/brands/hard-rock.svg" alt="Hard-Rock Cafe logo" height="78" width="78" /></a></center> | <center><a href="https://www.cat.com/"><img src="img/brands/caterpillar.svg" alt="Caterpillar logo" height="78" width="78" /></a></center> |
 
 ## Open-Source Projects I've contributed to
 
 | <center><a href="https://v2.grommet.io/">Grommet</a></center>                                                                                           | <center><a href="https://storybook.js.org/">Storybook</a></center>                                                                                                  | <center><a href="https://strapi.io/">Strapi</a></center>                                                                                                | <center><a href="https://cyprusjs.org/">CyprusJS</a></center>                                                                                                | <center><a href="https://semantic-release.gitbook.io/">Semantic-<br />Release</a></center>                                                                              | <center><a href="https://svgporn.com/">SVG Porn</a></center>                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| <center><a href="https://v2.grommet.io/"><img src="https://cdn.svgporn.com/logos/grommet.svg" alt="Grommet logo" height="64" width="64" /></a></center> | <center><a href="https://storybook.js.org/"><img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="Storybook logo" height="64" width="64" /></a></center> | <center><a href="https://strapi.io/"><img src="https://cdn.svgporn.com/logos/strapi-icon.svg" alt="Grommet logo" height="64" width="64" /></a></center> | <center><a href="https://cyprusjs.org/"><img src="https://cyprusjs.org/img/cyprusjs.df0af732.svg" alt="CyprusJS logo" height="64" width="64" /></a></center> | <center><a href="https://semantic-release.gitbook.io/"><img src="img/tech/semantic-release-logo.svg" alt="Semantic-Release logo" height="64" width="64" /></a></center> | <center><a href="https://svgporn.com/"><img src="img/tech/svgporn-logo.svg" alt="SVG Porn logo" height="64" width="64" /></a></center> |
+| <center><a href="https://v2.grommet.io/"><img src="https://cdn.svgporn.com/logos/grommet.svg" alt="Grommet logo" height="78" width="78" /></a></center> | <center><a href="https://storybook.js.org/"><img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="Storybook logo" height="78" width="78" /></a></center> | <center><a href="https://strapi.io/"><img src="https://cdn.svgporn.com/logos/strapi-icon.svg" alt="Grommet logo" height="78" width="78" /></a></center> | <center><a href="https://cyprusjs.org/"><img src="https://cyprusjs.org/img/cyprusjs.df0af732.svg" alt="CyprusJS logo" height="78" width="78" /></a></center> | <center><a href="https://semantic-release.gitbook.io/"><img src="img/tech/semantic-release-logo.svg" alt="Semantic-Release logo" height="78" width="78" /></a></center> | <center><a href="https://svgporn.com/"><img src="img/tech/svgporn-logo.svg" alt="SVG Porn logo" height="78" width="78" /></a></center> |
 
 ## Tech stack
 
@@ -245,13 +246,23 @@ Technology I love and use in my daily life.
 | <img src="https://cdn.svgporn.com/logos/browserslist.svg" alt="Browserslist logo" height="42" width="42" />           | [Browserslist](https://github.com/browserslist/browserslist)          | Compability        | TRUE    |
 | <img src="https://cdn.svgporn.com/logos/lighthouse.svg" alt="Lighthouse logo" height="42" width="42" />               | [Lighthouse](https://developers.google.com/web/tools/lighthouse)      | Performance Test   | TRUE    |
 
+## Recommendations
+
+| Avatar                                                                                                                                               | Name & Title                                                                                                                                                      | Testimonial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="img/recommendations/bjornnatthikolindeblad.jpg" alt="Björn Natthiko Lindeblad avatar" height="64" width="64" style="border-radius:100%" /> | **Björn "Natthiko" Lindeblad** <br /> <h6>Podcaster, Public Speaker, Buddhist monk, Fellow human being<br />[Jag kan ha fel](https://jagkanhafel.com/)</h6><br /> | _"Of all those who have helped me along the way digitally, Jonas Bröms is one of the most generous, competent and creative. Now he has made a website that makes it easy to find my stuff for a long, long time into the future. It's of course called https://jagkanhafel.com/ . Hat off to you, Jonas, thank you very much!"_                                                                                                                                                                                                                                                                                                                                                                                  |
+| <img src="img/recommendations/stefanjakobsson.jpg" alt="Stefan Jakobsson avatar" height="64" width="64" style="border-radius:100%" />                | **Stefan Jakobsson** <br /> <h6>Account Director,<br />[Dear friends](https://dearfriends.se/)</h6>                                                               | _"We have used Jonas and his company eWebbyrån on several occasions and are very pleased with the work and their ability to adapt to any kind of web related project. I can truly recommend Jonas and we will continue using their services in the future."_                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| <img src="img/recommendations/fredrikthor.jpg" alt="Fredrik Thor avatar" height="64" width="64" style="border-radius:100%" />                        | **Fredrik Thor** <br /> <h6>CEO,<br />[PR Offset](https://pr-offset.se/)</h6>                                                                                     | _"Jonas is a true entrepreneur with high creative skills.I strongly recommend Jonas both as a consult in IT related issues and in web application construction.As a person he is calm, trustworthy and he always has a positive attitude towards people he meet."_                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <img src="img/recommendations/olaeklof.jpg" alt="Ola Eklöf avatar" height="64" width="64" style="border-radius:100%" />                              | **Ola Eklöf** <br /> <h6>CEO,<br />Jonas & Olasspel</h6>                                                                                                          | _"Jonas has become a close friend who I first got to know more than 20 years ago when I started to train him in Greco-romain style wrestling. I have only seen Jonas excel and impress in his choices and progress during the years. 2005 I lost one important employee with big shoes to fill. I knew that Jonas wanted something more at the time beeing out of his career, so I hired him. He is very dedicated in his work and always tries to deliver more then you expect. He is always hungry for more, ambitionous with a creative way on solving problems. I tried him out for a year before I promoted him to Sales Director. And it was an easy choice. I have only good things to say about Jonas."_ |
+| <img src="img/recommendations/royswahn.jpg" alt="Roy Swahn avatar" height="64" width="64" style="border-radius:100%" />                              | **Roy Swahn** <br /> <h6>IT Administrator,<br />[Västfastigheter](https://www.vastfastigheter.se/)</h6>                                                           | _"Västfastigheter Gothenburg District manages properties for health care in Gothenburg. The IT Unit has 14 servers and about 210 workstations. Jonas Bröms has between 99-06-10 to 99-08-13 worked for us in the IT unit. His duties have been providing support to users, repairs of PC installations, backup the servers and workstations, and monitoring of servrer and networks. In addition, he has taken my responsibility as the IT Director during my six-week vacation."_                                                                                                                                                                                                                               |
+
 ## Contributing
 
 If you want to contribute to me, my life, my learning experience, you can connect on these social media and let's book IRL or video meeting:
 
 | <center>[Website](https://www.jonasbroms.com/)</center>                                                                                   | <center>[Github](https://github.com/bromso)</center>                                                                                  | <center>[Facebook](https://www.facebook.com/jonas.broms)</center>                                                                                    | <center>[Instagram](https://www.instagram.com/jonasbroms/)</center>                                                                                     | <center>[LinkedIn](https://www.linkedin.com/in/jonas-broms/)</center>                                                                                    | <center>[Twitter](https://twitter.com/jonasbroms)</center>                                                                                   | <center>[Email](mailto:jonasbroms@icloud.com)</center>                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <center><a href="https://www.jonasbroms.com/"><img src="img/social/website.svg" alt="Website logo" height="42" width="42" /></a></center> | <center><a href="https://github.com/bromso"><img src="img/social/github.svg" alt="Github logo" height="42" width="42" /></a></center> | <center><a href="https://www.facebook.com/jonas.broms"><img src="img/social/facebook.svg" alt="Facebook logo" height="42" width="42" /></a></center> | <center><a href="https://www.instagram.com/jonasbroms/"><img src="img/social/instagram.svg" alt="Instagram logo" height="42" width="42" /></a></center> | <center><a href="https://www.linkedin.com/in/jonas-broms/"><img src="img/social/linkedin.svg" alt="LinkedIn logo" height="42" width="42" /></a></center> | <center><a href="https://twitter.com/jonasbroms"><img src="img/social/twitter.svg" alt="Twitter logo" height="42" width="42" /></a></center> | <center><a href="https://twitter.com/jonasbroms"><img src="img/social/email.svg" alt="Email logo" height="42" width="42" /></a></center> |
+| <center><a href="https://www.jonasbroms.com/"><img src="img/social/website.svg" alt="Website logo" height="64" width="64" /></a></center> | <center><a href="https://github.com/bromso"><img src="img/social/github.svg" alt="Github logo" height="64" width="64" /></a></center> | <center><a href="https://www.facebook.com/jonas.broms"><img src="img/social/facebook.svg" alt="Facebook logo" height="64" width="64" /></a></center> | <center><a href="https://www.instagram.com/jonasbroms/"><img src="img/social/instagram.svg" alt="Instagram logo" height="64" width="64" /></a></center> | <center><a href="https://www.linkedin.com/in/jonas-broms/"><img src="img/social/linkedin.svg" alt="LinkedIn logo" height="64" width="64" /></a></center> | <center><a href="https://twitter.com/jonasbroms"><img src="img/social/twitter.svg" alt="Twitter logo" height="64" width="64" /></a></center> | <center><a href="https://twitter.com/jonasbroms"><img src="img/social/email.svg" alt="Email logo" height="64" width="64" /></a></center> |
 
 ## Quotes
 
