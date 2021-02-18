@@ -9,7 +9,7 @@ Depending on product/service/brand, I can make digital strategies on how to mark
 I have a long experience from a variety of fields and are therefor not limited in my ideas and/or thinking.
 I’ve worked my self up the production line and have deep knowledge of every aspect of the industry.
 
-## Table of contents
+## Table of Contents
 
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
@@ -268,33 +268,39 @@ If you want to contribute to me, my life, my learning experience, you can connec
 
 ## Quotes
 
-> ##### **"The meaning of life is to find you gift.**
+> ##### _**"The meaning of life is to find you gift.**_
 >
-> ##### **The purpose of life is to give it away"**
+> ##### _**The purpose of life is to give it away"**_
 >
 > ---
 >
 > ###### Unknown
 
-> ##### **"On my business card, I am a Creative Director.**
+---
+
+> ##### _**"On my business card, I am a Creative Director.**_
 >
-> ##### **In my mind, I am a designer.**
+> ##### _**In my mind, I am a designer.**_
 >
-> ##### **But in my heart, I am a gamer"**
+> ##### _**But in my heart, I am a gamer"**_
 >
 > ---
 >
 > ###### _Saturo Iwata, former CEO of Nintendo_
 
-> ##### **"Si vis pacem, para bellum"**
+---
+
+> ##### _**"Si vis pacem, para bellum"**_
 >
-> ##### **"If you want peace, prepare for war"**
+> ##### _**"If you want peace, prepare for war"**_
 >
 > ---
 >
 > ###### _Publius Flavius Vegetius Renatus's_
 
-> ##### **"Don't believe everything you think"**
+---
+
+> ##### _**"Don't believe everything you think"**_
 >
 > ---
 >
