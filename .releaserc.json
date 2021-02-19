@@ -1,23 +1,13 @@
 {
-	"branches": [
-		"master",
-		"next",
-		{
-			"name": "beta",
-			"prerelease": true
-		},
-		{
-			"name": "alpha",
-			"prerelease": true
-		}
-	],
+	"branches": "master",
   "debug": "true",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/github",
 		[
-			"@semantic-release/npm", {
+			"@semantic-release/npm",
+			{
       	"npmPublish": false
     	}
 		],
