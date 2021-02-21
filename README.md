@@ -1,3 +1,5 @@
+![Top banner](img/banners/github-top-banner.jpg)
+
 # **"Bromso"**, Fullstack Javascript Developer
 
 ### Summary
