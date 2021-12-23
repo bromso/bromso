@@ -2,7 +2,7 @@
 
 # **"Bromso"**, Fullstack Javascript Developer
 
-### I've been called "The Hybrid" & "A unicorn" in business/recruitment process because I have a broad & deep set of skills in design & development. On top of this I have the ability to communicate and convey different messages to different departments so that they understand each other better.
+### I've been called "The Hybrid" & "A unicorn" in business/recruitment process because I have a broad & deep set of skills in design & development. On top of this I have the ability to communicate and convey different messages to different departments so that they understand each other processes better.
 
 ### I like to think of myself as a creative & passionated person that aspire to innovate
 
@@ -15,15 +15,16 @@ Depending on product/service/brand, I can make digital strategies on how to mark
 I have a long experience from a variety of fields and are therefor not limited in my ideas and/or thinking.
 I’ve worked my self up the production line and been in management positions. I have deep knowledge of every aspect of the digital production industry.
 
-| **Field**                                                                      | **Level** | **Years** |
-| ------------------------------------------------------------------------------ | --------- | --------- |
-| [User-Experience design](https://en.wikipedia.org/wiki/User_experience_design) | Senior    | 10+       |
-| [Graphic design](https://en.wikipedia.org/wiki/Graphic_design)                 | Senior⋆⋆  | 10+       |
-| [HTML/CSS](https://en.wikipedia.org/wiki/HTML5)                                | Medior    | 10+       |
-| [React](https://reactjs.org/)                                                  | Junior⋆⋆  | 2         |
-| [Vue](https://vuejs.org/)                                                      | Junior    | 1         |
-| [AWS](https://aws.amazon.com/)                                                 | Junior⋆⋆  | 1         |
-| [Backend (Nodejs)](https://nodejs.org/)                                        | Junior⋆⋆  | 1         |
+| **Field**                                                                                          | **Level / Role** | **Years** |
+| -------------------------------------------------------------------------------------------------- | ---------------- | --------- |
+| [User-Experience design](https://en.wikipedia.org/wiki/User_experience_design)                     | Senior           | 10+       |
+| [Graphic design](https://en.wikipedia.org/wiki/Graphic_design)                                     | Senior⋆⋆         | 10+       |
+| [HTML/CSS](https://en.wikipedia.org/wiki/HTML5)                                                    | Medior           | 10+       |
+| [React](https://reactjs.org/)                                                                      | Junior⋆⋆         | 2         |
+| [Vue](https://vuejs.org/)                                                                          | Junior           | 1         |
+| [AWS](https://aws.amazon.com/)                                                                     | Junior⋆⋆         | 1         |
+| [Backend (Nodejs)](https://nodejs.org/)                                                            | Junior⋆⋆         | 1         |
+| [Data science](https://bigdata-madesimple.com/5-groups-of-data-scientists-which-group-are-you-in/) | Data Creative    | 10+       |
 
 ⋆⋆ have a polytechnic education
 
@@ -33,6 +34,7 @@ I’ve worked my self up the production line and been in management positions. I
 
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
+- [Testing](#testing)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
 - [Tech stack](#tech-stack)
@@ -44,6 +46,8 @@ I’ve worked my self up the production line and been in management positions. I
 - [Creators](#creators)
 - [Thanks-to](#thanks-to)
 - [Copyright and license](#copyright-and-license)
+
+---
 
 ## Quickstart
 
@@ -106,6 +110,8 @@ open mailto:jonasbroms@icloud.com?subject=Reconnect after I saw your Github prof
 - Training/Development
 - Tech Stack
 
+---
+
 ## What's included
 
 ```text
@@ -145,7 +151,7 @@ open mailto:jonasbroms@icloud.com?subject=Reconnect after I saw your Github prof
     ├┄┄ 👔 2016.marketingdirector.syncrasyLtd
     ├┄┄ 🎨 2017.creativedirector.cygroupLtd
     ├─┄ 🎨 2018.creativedirector.odduseLtd
-		└┄┄ 🎨 2021.frontenddeveloper.vinceAs
+    └┄┄ 🎨 2021.frontenddeveloper.vinceAs
 ```
 
 ### Why would I be a good fit?
@@ -154,26 +160,30 @@ I’m a highly energized, social person that sees marketing, design, user-experi
 
 ### What can I contribute with?
 
-I've been called a hybrid by many of my collegues. I have the knowledge & experience to communicate with designers, marketers, programmers & executives.
+I've been called a hybrid by many of my colleagues. I have the knowledge & experience to communicate with designers, marketers, programmers & executives.
 My passion for tech and programming usually rubs off on any of the teams I’ve joined.
 
 ### Why do I want to work with you?
 
-We’ve all seen different tech and programming languages come and go during years. Something that has been almost an absolute value out there, is HTML, CSS & foremost Javascript.
+We’ve all seen different tech and programming languages come and go during the years. Something that has been almost an absolute value out there, is HTML, CSS & foremost Javascript.
 My opinion is that if you’ve chosen to build an app in Javascript as your main programming language, you are ready to meet the future and I would like to be apart of that future!
+
+---
 
 ## Testing
 
 I'm not a big fan of performing personality- nor logic test in a recruitment process.
-The research I've read indicates that they have their place in a personal development process and can be used to measure personal growth, based that you have performed them during a long period of time.
+The research I've read indicates that they have their place in a personal development process and can be used to measure personal growth, provided that you have performed them during a long period of time.
 
 I won't be doing any more of these types of tests in a recruitment process because I think it is a waste of time for all parties involved.
-So the olive-branch I can provide, is for you to download my result from [Alvalabs](https://www.alvalabs.io/), if you feel that it is necessary for the recruitment process. But I will be asking for a valid argument.
+So the olive-branch I can bestow, is for you to download my result from [Alvalabs](https://www.alvalabs.io/), if you feel that it is necessary for the recruitment procedure. But I will be asking for a valid argument of why you require it, what type of scientifical studies you base your need for it and what types of models you'll use to compare my result against other candidates.
 
 | **Field**   | **Level**                                      | **Vendor**                           |
 | ----------- | ---------------------------------------------- | ------------------------------------ |
 | Logic       | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 98%, (10/10)              | [Alvalabs](https://www.alvalabs.io/) |
 | Personality | [Ask for result](mailto:jonasbroms@icloud.com) | [Alvalabs](https://www.alvalabs.io/) |
+
+---
 
 ## Bugs & feature requests
 
