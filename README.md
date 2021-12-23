@@ -130,22 +130,22 @@ open mailto:jonasbroms@icloud.com?subject=Reconnect after I saw your Github prof
 ├── 🏫 School
 │   ├┄┄ 🎓 1997.graduate.primaryschool
 │   ├┄┄ 🎓 2001.graduate.highschool
-│   ├┄┄ 🎓 2003.graduate.university
+│   ├┄┄ 🎓 2003.graduate.polytechnic.3dGraphics
 │   ├─┄ 🎓 2020.graduate.polytechnic.fullstackJS
 │   └─┄ 🎓 2021.graduate.polytechnic.amazonAWS
 │
 └── 💼 Career
-    ├┄┄ 👨‍💻 1999.assistant.västfastigheter
-    ├┄┄ 👨‍💻 2004.technician.västfastigheter
-    ├┄┄ 🪖 2002.specialist.army
-    ├┄┄ 🎨 2004.designer.webcountryprod
-    ├┄┄ 🎥 2004.assistant.sverigestelevision
-    ├┄┄ 👔 2010.salesdirector.jonasolasspelab
-    ├┄┄ 🎨 2010.creativedirector.ewebbyrånab
-    ├┄┄ 👔 2016.marketingdirector.syncrasy
-    ├┄┄ 🎨 2017.creativedirector.cygroup
-    ├─┄ 🎨 2018.creativedirector.odduse
-		└┄┄ 🎨 2021.frontenddeveloper.vince
+    ├┄┄ 👨‍💻 1999.assistant.västfastigheterAb
+    ├┄┄ 👨‍💻 2004.technician.västfastigheterAb
+    ├┄┄ 🪖 2002.specialist.swedishArmy
+    ├┄┄ 🎨 2004.designer.webcountryproductionAb
+    ├┄┄ 🎥 2004.assistant.sverigestelevisionAb
+    ├┄┄ 👔 2010.salesdirector.jonasolasspelAb
+    ├┄┄ 🎨 2010.creativedirector.ewebbyrånAb
+    ├┄┄ 👔 2016.marketingdirector.syncrasyLtd
+    ├┄┄ 🎨 2017.creativedirector.cygroupLtd
+    ├─┄ 🎨 2018.creativedirector.odduseLtd
+		└┄┄ 🎨 2021.frontenddeveloper.vinceAs
 ```
 
 ### Why would I be a good fit?
@@ -164,7 +164,9 @@ My opinion is that if you’ve chosen to build an app in Javascript as your main
 
 ## Testing
 
-I'm not a big fan of performing personality- nor logic test in a recruitment process. The research I've read indicates that they have their place in a personal development process and can be used to measure personal growth, based that you have performed them during a long period of time.
+I'm not a big fan of performing personality- nor logic test in a recruitment process.
+The research I've read indicates that they have their place in a personal development process and can be used to measure personal growth, based that you have performed them during a long period of time.
+
 I won't be doing any more of these types of tests in a recruitment process because I think it is a waste of time for all parties involved.
 So the olive-branch I can provide, is for you to download my result from [Alvalabs](https://www.alvalabs.io/), if you feel that it is necessary for the recruitment process. But I will be asking for a valid argument.
 
