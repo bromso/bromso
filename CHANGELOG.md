@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/bromso/bromso/compare/v1.0.0...v1.1.0) (2022-08-08)
+
+
+### Bug Fixes
+
+* change folder name from img to libs/assets ([d1db9ba](https://github.com/bromso/bromso/commit/d1db9bac6d072dab3fedf0c07158fbbc6dd78849))
+* create noderc with nodeversion 14.17 ([844e2f2](https://github.com/bromso/bromso/commit/844e2f20e40e3bdca57a87bcd628f593e833696a))
+* delete husky ([7e8f58f](https://github.com/bromso/bromso/commit/7e8f58fc47866bcd3773103367f4e9bc64f1ef08))
+* update commitlint + semantic release packages ([4220ff9](https://github.com/bromso/bromso/commit/4220ff9d1bf95aaaf46b7f9a660657ad1b7f2e26))
+
+
+### Features
+
+* add workspace cSpell words ([8a17c46](https://github.com/bromso/bromso/commit/8a17c4639720341ab35bfc33c82878cbb3586b82))
+* create .cz.json ([2fa09fb](https://github.com/bromso/bromso/commit/2fa09fb73405adc6b5b36fb0f1533032c27b6a54))
+* create extensions.json ([0775d88](https://github.com/bromso/bromso/commit/0775d88f77bb9494b91363af7f7dc99b345ae6a1))
+
 # 1.0.0 (2021-02-19)
 
 
