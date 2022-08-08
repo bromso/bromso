@@ -11,23 +11,23 @@ If this is the first time you are contributing to an project thru gt we would re
 
 ## Issues and labels
 
-| Type             | Semver          | Git Label | Explanation                                                    |
-| ---------------- | --------------- | --------- | -------------------------------------------------------------- |
-| breaking change  | BREAKING CHANGE |           | A major change                                                 |
-| bug              | fix             |           | A bug fix                                                      |
-| feature          | feat            |           | A new feature                                                  |
-| documentation    | docs            |           | Documentation improvements                                     |
-| style            | style           |           | Changes made white-space, formatting, missing semi-colons, etc |
-| refactor         | refactor        |           | A code change that neither fixes a bug nor adds a feature      |
-| performance      | perf            |           | Performance improvements                                       |
-| test             | test            |           | Add missing tests                                              |
-| chore            | chore           |           | Changes the build process                                      |
-| released         |                 |           | Used by Semantic-Release-Bot                                   |
-| duplicate        |                 |           | This issue or pull request already exists                      |
-| wontfix          |                 |           | This will not be worked on                                     |
-| helpwanted       |                 |           | Extra attention is needed                                      |
-| question         |                 |           | Further information is requested                               |
-| good first issue |                 |           | Good for newcomers                                             |
+| Type             | Semver          | Explanation                                                    |
+| ---------------- | --------------- | -------------------------------------------------------------- |
+| breaking change  | BREAKING CHANGE | A major change                                                 |
+| bug              | fix             | A bug fix                                                      |
+| feature          | feat            | A new feature                                                  |
+| documentation    | docs            | Documentation improvements                                     |
+| style            | style           | Changes made white-space, formatting, missing semi-colons, etc |
+| refactor         | refactor        | A code change that neither fixes a bug nor adds a feature      |
+| performance      | perf            | Performance improvements                                       |
+| test             | test            | Add missing tests                                              |
+| chore            | chore           | Changes the build process                                      |
+| released         |                 | Used by Semantic-Release-Bot                                   |
+| duplicate        |                 | This issue or pull request already exists                      |
+| wontfix          |                 | This will not be worked on                                     |
+| helpwanted       |                 | Extra attention is needed                                      |
+| question         |                 | Further information is requested                               |
+| good first issue |                 | Good for newcomers                                             |
 
 ## Semantic Release Labels
 
