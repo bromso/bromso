@@ -151,7 +151,8 @@ open mailto:jonasbroms@icloud.com?subject=Reconnect after I saw your Github prof
     ├┄┄ 👔 2016.marketingdirector.syncrasyLtd
     ├┄┄ 🎨 2017.creativedirector.cygroupLtd
     ├─┄ 🎨 2018.creativedirector.odduseLtd
-    └┄┄ 🎨 2021.frontenddeveloper.vinceAs
+    ├┄┄ 🎨 2021.frontenddeveloper.vinceAs
+		└┄┄ 🎨 2022.uxuileaddesigner.epulzeAB
 ```
 
 ### Why would I be a good fit?
@@ -212,6 +213,15 @@ These are some of the brands I've worked for during my years, either as a consul
 | <center><a href="https://www.qmatic.com/"><img src="libs/assets/brands/qmatic.svg" alt="Qmatic logo" height="78" width="78" /></a></center> | <center><a href="https://www.preem.se/"><img src="libs/assets/brands/preem.svg" alt="PREEM logo" height="78" width="78" /></a></center> | <center><a href="https://www.hardrock.com/"><img src="libs/assets/brands/hard-rock.svg" alt="Hard-Rock Cafe logo" height="78" width="78" /></a></center> | <center><a href="https://www.cat.com/"><img src="libs/assets/brands/caterpillar.svg" alt="Caterpillar logo" height="78" width="78" /></a></center> |
 
 ## Open-Source Projects I've contributed to
+
+### My Own Projects
+
+I have over **10 000** downloads on my public Figma profile.
+I've created over 872 icons as components, with minimum **default** & **flat** variants.
+And you can also find extremely forefront architectures for monorepos _(NodeJS, Turborepo, NextJS)_ & design system made in FigJam.
+For more info, please [click here](https://www.figma.com/@jonasbroms).
+
+### Other Peoples Projects
 
 | <center><a href="https://v2.grommet.io/">Grommet</a></center>                                                                                           | <center><a href="https://storybook.js.org/">Storybook</a></center>                                                                                                  | <center><a href="https://strapi.io/">Strapi</a></center>                                                                                                | <center><a href="https://cyprusjs.org/">CyprusJS</a></center>                                                                                 | <center><a href="https://semantic-release.gitbook.io/">Semantic-<br />Release</a></center>                                                                                      | <center><a href="https://github.com/commitizen/cz-cli">Commitizen</a></center>                                                                                                                                           | <center><a href="https://svgporn.com/">SVG Porn</a></center>                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
