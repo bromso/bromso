@@ -375,7 +375,6 @@ If you want to contribute to me, my life, my learning experience, you can connec
 
 | Avatar                                                | Name     | Role      |
 | ----------------------------------------------------- | -------- | --------- |
-| ![Viktoria Avatar](libs/assets/creators/viktoria.png) | Viktoria | Wife      |
 | ![Olle Avatar](libs/assets/creators/olle.png)         | Olle     | Brother   |
 | ![Brian Avatar](libs/assets/creators/brian.png)       | Brian    | My dog #1 |
 | ![Freddie Avatar](libs/assets/creators/freddie.png)   | Freddie  | My dog #2 |
