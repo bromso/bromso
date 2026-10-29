@@ -1,6 +1,6 @@
 ![Top banner](libs/assets/banners/github-top-banner.jpg)
 
-# **"Bromso"** · Senior Product Designer & Full-stack Developer
+# **"Bromso"** · Principal Product Designer & Full-stack Developer
 
 [![Release](https://img.shields.io/github/v/release/bromso/bromso?label=version&color=0a7ea4)](https://github.com/bromso/bromso/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -25,12 +25,12 @@ On the side I mentor. Over 300 one-to-one sessions on ADPList, Super Mentor twel
 
 | **Field**                                                                              | **Level / Role**  | **Years** |
 | -------------------------------------------------------------------------------------- | ----------------- | --------- |
-| [Product & UX design](https://en.wikipedia.org/wiki/User_experience_design)            | Senior / Lead     | 15+       |
-| [Design systems](https://www.figma.com/@jonasbroms)                                    | Senior⋆⋆          | 10+       |
+| [Product & UX design](https://en.wikipedia.org/wiki/User_experience_design)            | Principal         | 15+       |
+| [Design systems](https://www.figma.com/@jonasbroms)                                    | Principal⋆⋆       | 10+       |
 | [Graphic design](https://en.wikipedia.org/wiki/Graphic_design)                         | Senior⋆⋆          | 20+       |
 | [Frontend (React, Next.js, TypeScript)](https://nextjs.org/)                           | Senior⋆⋆          | 6         |
 | [Backend (Node.js, Bun)](https://bun.sh/)                                              | Medior⋆⋆          | 5         |
-| [AI-assisted development (Claude Code, MCP, Copilot)](https://modelcontextprotocol.io/) | Senior            | 3         |
+| [AI-assisted development (Claude Code, MCP, Copilot)](https://modelcontextprotocol.io/) | Principal         | 3         |
 | [Rust](https://www.rust-lang.org/)                                                     | Medior, compiling | 2         |
 | [Cloud (AWS, Vercel, Supabase)](https://aws.amazon.com/)                               | Medior⋆⋆          | 4         |
 | [Mentoring & coaching](https://adplist.org/mentors/jonas)                              | Top 1% (ADPList)  | 3         |
@@ -69,7 +69,7 @@ On the side I mentor. Over 300 one-to-one sessions on ADPList, Super Mentor twel
 
 - `React: Junior` has been removed. It was replaced by `Next.js: Senior` and nobody filed an issue.
 - `Backend: 1 year` is deprecated. Use `Node.js | Bun | Rust` instead.
-- `Creative Director` is no longer the default export. `Senior Product Designer` is.
+- `Creative Director` is no longer the default export. `Principal Product Designer` is.
 
 **Features**
 
@@ -402,6 +402,7 @@ Technology I love and use. "Daily driver" is what is open on my machine right no
 | :---: | --- | --- | :---: | --- |
 | <img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma logo" height="32" width="32" /> | [Figma](https://www.figma.com/) | Product design | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95%` |
 | <img src="https://cdn.svgporn.com/logos/figma.svg" alt="FigJam logo" height="32" width="32" /> | [FigJam](https://www.figma.com/figjam/) | Workshops & diagrams | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90%` |
+| <img src="https://cdn.svgporn.com/logos/miro.svg" alt="Miro logo" height="32" width="32" /> | [Miro](https://miro.com/) | Workshops & diagrams |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
 | <img src="https://cdn.svgporn.com/logos/sketch.svg" alt="Sketch logo" height="32" width="32" /> | [Sketch](https://www.sketch.com/) | Product design |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
 | <img src="https://cdn.svgporn.com/logos/framer.svg" alt="Framer logo" height="32" width="32" /> | [Framer](https://www.framer.com/) | Prototyping & sites |  | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 55%` |
 | <img src="libs/assets/tech/affinity-designer.svg" alt="Affinity Designer logo" height="32" width="32" /> | [Affinity Designer](https://affinity.serif.com/) | Vector graphics |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%` |
@@ -421,6 +422,8 @@ Technology I love and use. "Daily driver" is what is open on my machine right no
 | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker logo" height="32" width="32" /> | [Docker](https://www.docker.com/) | Containers | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
 | <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="Kubernetes logo" height="32" width="32" /> | [Kubernetes](https://kubernetes.io/) | Orchestration |  | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ 45%` |
 | <img src="https://cdn.svgporn.com/logos/playwright.svg" alt="Playwright logo" height="32" width="32" /> | [Playwright](https://playwright.dev/) | E2E testing |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%` |
+| <img src="https://cdn.svgporn.com/logos/cypress.svg" alt="Cypress logo" height="32" width="32" /> | [Cypress](https://www.cypress.io/) | E2E testing |  | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 60%` |
+| <img src="https://cdn.svgporn.com/logos/vitest.svg" alt="Vitest logo" height="32" width="32" /> | [Vitest](https://vitest.dev/) | Unit testing | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
 | <img src="https://cdn.svgporn.com/logos/vercel-icon.svg" alt="Vercel logo" height="32" width="32" /> | [Vercel](https://vercel.com/) | Hosting | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
 | <img src="https://cdn.svgporn.com/logos/cloudflare-icon.svg" alt="Cloudflare logo" height="32" width="32" /> | [Cloudflare](https://www.cloudflare.com/) | Edge & DNS |  | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 55%` |
 | <img src="https://cdn.svgporn.com/logos/netlify.svg" alt="Netlify logo" height="32" width="32" /> | [Netlify](https://www.netlify.com/) | Hosting |  | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 60%` |
@@ -442,6 +445,8 @@ Technology I love and use. "Daily driver" is what is open on my machine right no
 | <img src="https://cdn.svgporn.com/logos/zsh.svg" alt="Zsh + Oh My Zsh logo" height="32" width="32" /> | [Zsh + Oh My Zsh](https://ohmyz.sh/) | Shell | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%` |
 | <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VS Code logo" height="32" width="32" /> | [VS Code](https://code.visualstudio.com/) | Editor | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 85%` |
 | <img src="https://cdn.svgporn.com/logos/notion-icon.svg" alt="Notion logo" height="32" width="32" /> | [Notion](https://www.notion.com/) | Docs & planning |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
+| <img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="Slack logo" height="32" width="32" /> | [Slack](https://slack.com/) | Communication | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 85%` |
+| <img src="https://cdn.svgporn.com/logos/linear-icon.svg" alt="Linear logo" height="32" width="32" /> | [Linear](https://linear.app/) | Planning |  | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 60%` |
 | <img src="https://cdn.svgporn.com/logos/jira.svg" alt="Jira logo" height="32" width="32" /> | [Jira](https://www.atlassian.com/software/jira) | Planning |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%` |
 
 ---
@@ -487,6 +492,7 @@ Found a bug not listed here? [Open an issue](https://github.com/bromso/bromso/is
 | ![Stefan Jakobsson avatar](libs/assets/recommendations/stefanjakobsson.png)                | **Stefan Jakobsson** <br /> <h6>Account Director,<br />[Dear friends](https://dearfriends.se/)</h6>                                                               | _"We have used Jonas and his company eWebbyrån on several occasions and are very pleased with the work and their ability to adapt to any kind of web related project. I can truly recommend Jonas and we will continue using their services in the future."_                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ![Fredrik Thor avatar](libs/assets/recommendations/fredrikthor.png)                        | **Fredrik Thor** <br /> <h6>CEO,<br />[PR Offset](https://pr-offset.se/)</h6>                                                                                     | _"Jonas is a true entrepreneur with high creative skills.I strongly recommend Jonas both as a consult in IT related issues and in web application construction.As a person he is calm, trustworthy and he always has a positive attitude towards people he meet."_                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ![Ola Eklöf avatar](libs/assets/recommendations/olaeklof.png)                              | **Ola Eklöf** <br /> <h6>CEO,<br />Jonas & Olasspel</h6>                                                                                                          | _"Jonas has become a close friend who I first got to know more than 20 years ago when I started to train him in Greco-romain style wrestling. I have only seen Jonas excel and impress in his choices and progress during the years. 2005 I lost one important employee with big shoes to fill. I knew that Jonas wanted something more at the time beeing out of his career, so I hired him. He is very dedicated in his work and always tries to deliver more then you expect. He is always hungry for more, ambitionous with a creative way on solving problems. I tried him out for a year before I promoted him to Sales Director. And it was an easy choice. I have only good things to say about Jonas."_ |
+| ![Roy Swahn avatar](libs/assets/recommendations/royswahn.png)                              | **Roy Swahn** <br /> <h6>IT Administrator,<br />[Västfastigheter](https://www.vastfastigheter.se/)</h6>                                                           | _"Västfastigheter Gothenburg District manages properties for health care in Gothenburg. The IT Unit has 14 servers and about 210 workstations. Jonas Bröms has between 99-06-10 to 99-08-13 worked for us in the IT unit.His duties have been providing support to users, repairs of PC installations, backup the servers and workstations, and monitoring of servrer and networks. In addition, he has taken my responsibility as the IT Director during my six-week vacation."_                                                                                                                                                                                                                                |
 |                                                                                            | **Dr. Zsolt Szilagyi** <br /> <h6>IT operations & management consultant</h6>                                                                                      | _"Working with Jonas is always eye-opening. He truly delivers on the title of Chief User Experience Strategist, creating strategies and solutions with a 360°-view of customer, brand, product, market, and culture. He is the kind of guy you want on your payroll when success is not optional."_ |
 |                                                                                            | **Gustavo Ferreira** <br /> <h6>Full-Stack Engineer, Founder of Gustek</h6>                                                                                        | _"I had the pleasure of working with Jonas for a few months on a large project. In that short time, he impressed me with his technical skills, professionalism, and collaborative attitude. He was always willing to help and shared his knowledge openly, making a real impact on the team."_ |
 
