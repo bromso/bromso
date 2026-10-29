@@ -1,108 +1,71 @@
 # Contributing
 
 - [Submitting changes](#submitting-changes)
+- [Local setup](#local-setup)
+- [Commit messages](#commit-messages)
 - [Issues and labels](#issues-and-labels)
-- [Commit with Terminal commands](commit-with-terminal-commands)
-- [Commit with Commitizen](#commit-with-commitizen)
+- [Branches and releases](#branches-and-releases)
 
 ## Submitting changes
 
-If this is the first time you are contributing to an project thru gt we would really appreciate if you would read the [Open-Source.guide](https://opensource.guide/) before committing.
+This repository is a profile README, so most contributions are corrections: a broken link, an outdated fact, a typo. Open an issue using one of the templates, or send a pull request straight away for small fixes.
+
+If this is your first open-source contribution, [opensource.guide](https://opensource.guide/) is a good read before you start. By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md). Security problems go through [SECURITY.md](SECURITY.md), not the issue tracker.
+
+## Local setup
+
+```sh
+nvm use          # Node version from .nvmrc
+npm ci           # install dev dependencies
+npm run lint     # markdownlint + link check
+```
+
+`npm run lint:md` checks Markdown style with the rules in `.markdownlint-cli2.jsonc`. `npm run lint:links` fetches every link in the Markdown files and fails on anything that returns 4xx or 5xx, except for a short list of sites that block bots. The same checks run in CI on every pull request.
+
+## Commit messages
+
+Commits follow [Conventional Commits](https://www.conventionalcommits.org/) and are checked by commitlint in CI. The type decides the next version number, so pick it with care.
+
+| Type                | Explanation                                              | Semver (eg. 1.5.2) | Example                                      |
+| ------------------- | -------------------------------------------------------- | ------------------ | -------------------------------------------- |
+| **fix**             | A correction                                             | x.x.**1**          | `fix: repoint CyprusJS link to GitHub`       |
+| **feat**            | New content or a new section                             | x.**1**.x          | `feat: add Products & projects section`      |
+| **BREAKING CHANGE** | The person described no longer behaves as documented     | **1**.x.x          | `feat!: replace Creative Director with ...`  |
+| **docs**            | Documentation that is not the README itself              |                    | `docs: expand CONTRIBUTING`                  |
+| **style**           | Formatting only                                          |                    | `style: align tech-stack table`              |
+| **refactor**        | Restructuring without changing meaning                   |                    | `refactor: split tech stack by category`     |
+| **perf**            | Faster to read, lighter to load                          |                    | `perf: shrink banner image`                  |
+| **test**            | Lint and link-check configuration                        |                    | `test: ignore shields.io in link check`      |
+| **chore**           | Tooling, dependencies, housekeeping                      |                    | `chore(deps): bump semantic-release`         |
+| **ci**              | GitHub Actions                                           |                    | `ci: add OpenSSF Scorecard`                  |
+
+Write the message yourself:
+
+```sh
+git commit -m "fix: correct Figma download count"
+```
+
+Or let Commitizen ask you the questions:
+
+```sh
+npx cz
+```
 
 ## Issues and labels
 
-| Type             | Semver          | Explanation                                                    |
-| ---------------- | --------------- | -------------------------------------------------------------- |
-| breaking change  | BREAKING CHANGE | A major change                                                 |
-| bug              | fix             | A bug fix                                                      |
-| feature          | feat            | A new feature                                                  |
-| documentation    | docs            | Documentation improvements                                     |
-| style            | style           | Changes made white-space, formatting, missing semi-colons, etc |
-| refactor         | refactor        | A code change that neither fixes a bug nor adds a feature      |
-| performance      | perf            | Performance improvements                                       |
-| test             | test            | Add missing tests                                              |
-| chore            | chore           | Changes the build process                                      |
-| released         |                 | Used by Semantic-Release-Bot                                   |
-| duplicate        |                 | This issue or pull request already exists                      |
-| wontfix          |                 | This will not be worked on                                     |
-| helpwanted       |                 | Extra attention is needed                                      |
-| question         |                 | Further information is requested                               |
-| good first issue |                 | Good for newcomers                                             |
+| Label            | Used for                                           |
+| ---------------- | -------------------------------------------------- |
+| bug              | Something is wrong, broken or outdated             |
+| enhancement      | A suggestion for new content or tooling            |
+| question         | Anything else                                      |
+| released         | Added by semantic-release when a fix ships         |
+| duplicate        | Already reported                                   |
+| wontfix          | Will not be worked on (see Known bugs in the README for examples) |
+| help wanted      | Extra attention is needed                          |
+| good first issue | Good for newcomers                                 |
 
-## Semantic Release Labels
+## Branches and releases
 
-| Type                | Explanation                                                    | Semver (eg. 1.5.2) | Git Message Example                                    |
-| ------------------- | -------------------------------------------------------------- | ------------------ | ------------------------------------------------------ |
-| **fix**             | A bug fix                                                      | x.x.**1**          | **fix:** _update package.json_                         |
-| **feat**            | A new feature                                                  | x.**1**.x          | **feat:** _add new eslint to package.json_             |
-| **BREAKING CHANGE** | A major change                                                 | **1**.x.x          | **BREAKING CHANGE:** _upgrade to strapi 3 & gatsby 3_  |
-| **docs**            | Documentation improvements                                     |                    | **docs:** _update README.md_                           |
-| **style**           | Changes made white-space, formatting, missing semi-colons, etc |                    | **style:** _add styles in breadcrumb component_        |
-| **refactor**        | A code change that neither fixes a bug nor adds a feature      |                    | **refactor:** _fixed better intendation in index.html_ |
-| **perf**            | Performance improvements                                       |                    | **perf:** _add tree-shaking to webpack_                |
-| **test**            | Add missing tests                                              |                    | **test:** _add test to .travis.yml_                    |
-| **chore**           | Changes the build process                                      |                    | **chore:** _update .travis.yml & netlify.toml_         |
+`master` is the only long-lived branch and is what GitHub renders on the profile. Work happens on short-lived branches (`feat/...`, `fix/...`) merged through pull requests. The Lint workflow (Markdown, commit messages, links) must pass before merge.
 
-## Commit
-
-### With Terminal commands
-
-Our bug tracker utilizes several labels to help organize and identify issues. Here's what they represent and how we use them:
-
-Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
-
-```sh
-$ git commit -m "feat: A brief summary of the commit"
-```
-
-### With Commitizen
-
-```sh
-$ cz
-```
-
-## Git branches
-
-| Name          | Versioning | Automated Testing | Description                                       |
-| ------------- | ---------- | ----------------- | ------------------------------------------------- |
-| **Main**      | Live       |                   | Production                                        |
-| **[PR #1]**   |            | LHT, SRB          | Pull request made from Next to Main, BETA version |
-| **Next**      | Beta       |                   | Beta/Stage, used for showcasing clients           |
-| **[PR #2]**   |            | LHT, SRA          | Pull request made from Develop to Next            |
-| **"Develop"** | Alpha      |                   | Alpha/Stage, used for internal tests & showcasing |
-| **[PR #3]**   |            | LHT, SRA          | Pull request made from "Feature/Fix" to Develop   |
-| **"Develop"** | Alpha      |                   | Alpha/Stage, used for internal tests & showcasing |
-
-- **LHT** = Lighthouse Test
-- **SRA** = Semantic Release Bot, ALPHA version
-- **SRB** = Semantic Release Bot, BETA version
-
-```text
-◎ <-- Main
-┃
-┠══[PR #1]══╮
-┃           ⊙ <-- Next
-┃           ║
-┃           ║
-┃           ╠──[PR #2]──╮
-┃           ║           │
-┃           ║           ⊙ <-- Develop
-┃           ║           │
-┃           ║           │
-┃           ║           ⊙┄┄[PR #3]┄┄╮
-┃           ║           │           ┆
-┃           ║           │           ◌ <-- "Feature/Fix"
-┃           ║           │           ┆
-┃           ║           │           ┆
-┃           ║           │           ┆
-┃           ║           │           ┆
-●           ○           ○           ◌
-```
-
-## Releases
-
-See the Releases section of our project for [CHANGELOG](CHANGELOG.md) for each release version of Vince Live UI project.
-
-## Checking coding style
-
-Run `npm` & `npm test` before committing to ensure your changes follow our coding standards.
+On every push to `master`, [semantic-release](https://semantic-release.gitbook.io/) reads the commit messages since the last tag, decides the next version, updates [CHANGELOG.md](CHANGELOG.md) and `package.json`, and publishes a GitHub release. Nothing is published to npm. Release commits are tagged `[skip ci]` so they do not trigger a second run.

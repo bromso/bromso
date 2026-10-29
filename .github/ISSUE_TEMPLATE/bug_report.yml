@@ -1,0 +1,33 @@
+name: Bug report
+description: Something in the README is wrong, broken or outdated.
+title: "fix: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reading closely enough to find this.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where is the bug?
+      options:
+        - Broken link or image
+        - Wrong or outdated fact
+        - Typo or grammar
+        - Rendering (tables, layout, dark mode)
+        - Tooling (workflows, release, lint)
+        - The person described (see Known bugs)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong?
+      description: Quote the line or section, and say what it should be instead.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (optional)
+      description: A link that backs up the correction, if you have one.

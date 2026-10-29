@@ -1,14 +1,11 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: 🐦 Jonas Bröms Twitter
-    url: https://twitter.com/jonasbroms
-    about: The official Twitter account to ask questions and get help with any open-source projects by me
-  - name: 📘 Jonas Bröms Facebook
-    url: https://www.facebook.com/jonasbroms
-    about: Ask questions, get help and discuss new things you're building with me
-  - name: 📷 Jonas Bröms Instagram
-    url: https://www.instagram.com/jonasbroms/
-    about: Ask questions, get help and discuss new things you're building with me
-  - name: 💼 Jonas Bröms LinkedIn
-    url: https://www.linkedin.com/in/jonas-broms/
-    about: Ask questions, get help and discuss new things you're building with me
+  - name: Hire or book me
+    url: mailto:jonasbroms@icloud.com?subject=Reconnect%20after%20I%20saw%20your%20GitHub%20profile
+    about: Job offers, consulting, mentoring and talks go by email.
+  - name: Mentoring session
+    url: https://adplist.org/mentors/jonas
+    about: Book a free one-to-one on ADPList.
+  - name: Security issue
+    url: https://github.com/bromso/bromso/security/advisories/new
+    about: Report a vulnerability privately. See SECURITY.md.
