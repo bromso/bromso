@@ -1,0 +1,18 @@
+{
+	// Markdown lint rules for a GitHub profile README that leans on inline HTML and wide tables.
+	"config": {
+		"default": true,
+		"MD013": false, // line length: tables and badge rows are long by design
+		"MD033": false, // inline HTML: used for logos, centring and small headings in tables
+		"MD041": false, // first line is the banner image, not an H1
+		"MD036": false, // emphasis used as heading inside quote blocks (by design)
+		"MD024": { "siblings_only": true },
+		"MD026": false, // trailing punctuation in headings ("Why would I be a good fit?")
+		"MD034": false, // bare URL inside a quoted testimonial
+		"MD001": false, // heading levels jump inside quote blocks and tables
+		"MD060": false, // table column alignment: cells contain HTML and vary in width by design
+		"MD028": false // consecutive blockquotes (testimonials) separated by a blank line render correctly on GitHub
+	},
+	"globs": ["**/*.md"],
+	"ignores": ["node_modules/**", "CHANGELOG.md"]
+}

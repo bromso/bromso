@@ -1,0 +1,12 @@
+# Link checker configuration (https://github.com/lycheeverse/lychee)
+max_concurrency = 8
+timeout = 20
+max_retries = 2
+accept = ["200..=299", "403", "429", "999"] # 403/429/999 are bot walls, not broken links
+user_agent = "Mozilla/5.0 (compatible; lychee; +https://github.com/bromso/bromso)"
+exclude_path = ["node_modules", "CHANGELOG.md"]
+exclude = [
+	"^mailto:",
+	"^https://www\\.jonasbroms\\.com", # personal site, DNS being fixed
+	"^https://img\\.shields\\.io", # badge images, rate limited
+]
