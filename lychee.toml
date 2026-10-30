@@ -9,4 +9,5 @@ exclude = [
 	"^mailto:",
 	"^https://www\\.jonasbroms\\.com", # personal site, DNS being fixed
 	"^https://img\\.shields\\.io", # badge images, rate limited
+	"^https://www\\.cat\\.com", # stalls bot requests from CI runners
 ]
