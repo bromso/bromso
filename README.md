@@ -1,4 +1,4 @@
-![Top banner](libs/assets/banners/github-top-banner.jpg)
+![Blueprint of "Bromso, The Hybrid", rev 2.0: an exploded engineering drawing of Jonas Bröms with callouts for UX cortex, design system bus, TypeScript runtime, Rust core, MCP interface port, Figma plugin slot, mentoring module and Amiga 500+ boot ROM](libs/assets/banners/github-top-banner.jpg)
 
 # **"Bromso"** · Principal Product Designer & Full-stack Developer
 
