@@ -1,3 +1,23 @@
+# [2.0.0](https://github.com/bromso/bromso/compare/v1.1.0...v2.0.0) (2026-10-30)
+
+
+* feat(readme)!: refresh profile for 2026 ([4d96cd7](https://github.com/bromso/bromso/commit/4d96cd738db206a3aaeac207af223784066eef07))
+
+
+### Features
+
+* **readme:** blueprint banner ([e829a19](https://github.com/bromso/bromso/commit/e829a19bfda7793418bf04dac216b64eeb1a1476))
+* **readme:** bump design and ai topics to principal, restore a recommendation ([aa94ef4](https://github.com/bromso/bromso/commit/aa94ef46e437c47fc3a2e41cf873cfcbec96c172))
+* **readme:** new top banner for v2 ([3c80d43](https://github.com/bromso/bromso/commit/3c80d43b0c1c65a234903abede70c6248019c1ce))
+
+
+### BREAKING CHANGES
+
+* 'React: Junior' and 'Backend: 1 year' are gone; the default
+export is now Senior Product Designer & Full-stack Developer.
+
+Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>
+
 # [1.1.0](https://github.com/bromso/bromso/compare/v1.0.0...v1.1.0) (2022-08-08)
 
 
