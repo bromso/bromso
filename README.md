@@ -431,8 +431,7 @@ Technology I love and use. "Daily driver" is what is open on my machine right no
 | <img src="libs/assets/tech/commitlint.svg" alt="commitlint logo" height="32" width="32" /> | [commitlint](https://commitlint.js.org/) | Commit convention | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%` |
 | <img src="libs/assets/tech/commitizen.svg" alt="Commitizen logo" height="32" width="32" /> | [Commitizen](https://commitizen.github.io/cz-cli/) | Commit convention | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%` |
 | <img src="libs/assets/tech/husky.png" alt="Husky logo" height="32" width="32" /> | [Husky](https://typicode.github.io/husky/) | Git hooks |  | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%` |
-| <img src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint logo" height="32" width="32" /> | [ESLint](https://eslint.org/) | Lint | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%` |
-| <img src="https://cdn.svgporn.com/logos/prettier.svg" alt="Prettier logo" height="32" width="32" /> | [Prettier](https://prettier.io/) | Formatting | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%` |
+| <img src="https://cdn.svgporn.com/logos/biomejs-icon.svg" alt="Biome logo" height="32" width="32" /> | [Biome](https://biomejs.dev/) | Lint & format | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%` |
 | <img src="libs/assets/tech/editorconfig.svg" alt="EditorConfig logo" height="32" width="32" /> | [EditorConfig](https://editorconfig.org/) | Formatting | ✅ | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%` |
 
 ### Workstation

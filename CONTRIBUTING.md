@@ -17,10 +17,10 @@ If this is your first open-source contribution, [opensource.guide](https://opens
 ```sh
 nvm use          # Node version from .nvmrc
 npm ci           # install dev dependencies
-npm run lint     # markdownlint + link check
+npm run lint     # biome + markdownlint + link check
 ```
 
-`npm run lint:md` checks Markdown style with the rules in `.markdownlint-cli2.jsonc`. `npm run lint:links` fetches every link in the Markdown files and fails on anything that returns 4xx or 5xx, except for a short list of sites that block bots. The same checks run in CI on every pull request.
+`npm run lint:code` runs [Biome](https://biomejs.dev/) (formatter and linter for the JavaScript and JSON files; `npm run format` applies its fixes). `npm run lint:md` checks Markdown style with the rules in `.markdownlint-cli2.jsonc`. `npm run lint:links` fetches every link in the Markdown files and fails on anything that returns 4xx or 5xx, except for a short list of sites that block bots. The same checks run in CI on every pull request.
 
 ## Commit messages
 
@@ -66,6 +66,6 @@ npx cz
 
 ## Branches and releases
 
-`master` is the only long-lived branch and is what GitHub renders on the profile. Work happens on short-lived branches (`feat/...`, `fix/...`) merged through pull requests. The Lint workflow (Markdown, commit messages, links) must pass before merge.
+`master` is the only long-lived branch and is what GitHub renders on the profile. Work happens on short-lived branches (`feat/...`, `fix/...`) merged through pull requests. The Lint workflow (Biome, Markdown, commit messages, links) must pass before merge.
 
 On every push to `master`, [semantic-release](https://semantic-release.gitbook.io/) reads the commit messages since the last tag, decides the next version, updates [CHANGELOG.md](CHANGELOG.md) and `package.json`, and publishes a GitHub release. Nothing is published to npm. Release commits are tagged `[skip ci]` so they do not trigger a second run.

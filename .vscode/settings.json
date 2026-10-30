@@ -1,14 +1,18 @@
 {
 	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.defaultFormatter": "biomejs.biome",
+	"editor.codeActionsOnSave": {
+		"source.organizeImports.biome": "explicit"
+	},
 	"files.eol": "\n",
 	"cSpell.words": [
 		"adplist",
 		"askama",
 		"axum",
-		"Bromso",
-		"Bröms",
+		"biomejs",
 		"Blunchers",
+		"Bröms",
+		"Bromso",
 		"commitlint",
 		"creativedirector",
 		"cygroup",
@@ -47,10 +51,10 @@
 		"syncrasy",
 		"Turso",
 		"unitedarabemirates",
-		"uxui",
 		"Uxcel",
-		"virke",
+		"uxui",
 		"västfastigheter",
+		"virke",
 		"webcountryproduction"
 	]
 }

@@ -25,7 +25,7 @@ You will get an acknowledgement within 72 hours and a fix or a decision within 1
 - Every workflow declares least-privilege `permissions` and checks out code with `persist-credentials: false`.
 - The release workflow is the only job with write access, and only on `master`.
 - OpenSSF Scorecard runs weekly and uploads its findings to code scanning.
-- Every pull request is linted (Markdown, commit messages) and link-checked before merge.
+- Every pull request is linted (Biome for code and JSON, markdownlint, commitlint) and link-checked before merge.
 - Branch protection on `master` is recommended: require the Lint workflow and one review (the CODEOWNERS file names the reviewer).
 
 ## Out of scope

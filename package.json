@@ -11,13 +11,16 @@
 		"node": ">=22.14"
 	},
 	"scripts": {
-		"lint": "npm run lint:md && npm run lint:links",
+		"lint": "npm run lint:code && npm run lint:md && npm run lint:links",
+		"lint:code": "biome ci .",
 		"lint:md": "markdownlint-cli2",
 		"lint:links": "node scripts/check-links.mjs",
-		"test": "npm run lint:md",
+		"format": "biome check --write .",
+		"test": "npm run lint:code && npm run lint:md",
 		"release": "semantic-release"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "2.6.4",
 		"@commitlint/cli": "^21.2.4",
 		"@commitlint/config-conventional": "^21.2.4",
 		"@semantic-release/changelog": "^7.0.0",
