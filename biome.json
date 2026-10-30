@@ -1,0 +1,32 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.6.4/schema.json",
+	"vcs": { "enabled": true, "clientKind": "git", "useIgnoreFile": true },
+	"files": {
+		"ignoreUnknown": true,
+		"includes": ["**", "!package-lock.json", "!CHANGELOG.md", "!libs/assets"]
+	},
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "tab",
+		"lineWidth": 100,
+		"formatWithErrors": false
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"preset": "recommended",
+			"suspicious": { "noConsole": "off" },
+			"style": { "useTemplate": "off" }
+		}
+	},
+	"javascript": { "formatter": { "quoteStyle": "double", "semicolons": "always" } },
+	"json": { "formatter": { "trailingCommas": "none" } },
+	"markdown": { "formatter": { "enabled": false } },
+	"assist": { "enabled": true, "actions": { "source": { "organizeImports": "on" } } },
+	"overrides": [
+		{
+			"includes": ["**/*.jsonc", ".vscode/*.json", "**/tsconfig*.json"],
+			"json": { "parser": { "allowComments": true, "allowTrailingCommas": true } }
+		}
+	]
+}

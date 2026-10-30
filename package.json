@@ -3,21 +3,36 @@
 	"private": true,
 	"description": "Official repository of Jonas Bröms README.md",
 	"version": "1.1.0",
-	"author": "Jonas Bröms <jonasbroms@icloud.com> (http://jonasbroms.com/)",
-	"license": "MIT <https://github.com/bromso/bromso/blob/master/LICENSE>",
-	"homepage": "https://github.com/bromso/bromso/blob/master/README.md",
+	"author": "Jonas Bröms <jonasbroms@icloud.com> (https://jonasbroms.com/)",
+	"license": "MIT",
+	"homepage": "https://github.com/bromso/bromso#readme",
+	"type": "module",
+	"engines": {
+		"node": ">=22.14"
+	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 0"
+		"lint": "npm run lint:code && npm run lint:md && npm run lint:links",
+		"lint:code": "biome ci .",
+		"lint:md": "markdownlint-cli2",
+		"lint:links": "node scripts/check-links.mjs",
+		"format": "biome check --write .",
+		"test": "npm run lint:code && npm run lint:md",
+		"release": "semantic-release"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^17.0.3",
-		"@commitlint/config-conventional": "^17.0.3",
-		"@semantic-release/changelog": "^6.0.1",
-		"@semantic-release/commit-analyzer": "^9.0.2",
-		"@semantic-release/git": "^10.0.1",
-		"@semantic-release/github": "^8.0.5",
-		"@semantic-release/npm": "^9.0.1",
-		"@semantic-release/release-notes-generator": "^10.0.3"
+		"@biomejs/biome": "2.6.4",
+		"@commitlint/cli": "^21.2.4",
+		"@commitlint/config-conventional": "^21.2.4",
+		"@semantic-release/changelog": "^7.0.0",
+		"@semantic-release/commit-analyzer": "^13.0.1",
+		"@semantic-release/git": "^11.0.1",
+		"@semantic-release/github": "^12.0.10",
+		"@semantic-release/npm": "^13.2.0",
+		"@semantic-release/release-notes-generator": "^14.1.1",
+		"commitizen": "^4.3.2",
+		"cz-conventional-changelog": "^3.3.0",
+		"markdownlint-cli2": "^0.24.0",
+		"semantic-release": "^25.0.9"
 	},
 	"repository": {
 		"type": "git",
@@ -32,6 +47,7 @@
 		"README",
 		"README.md",
 		"CV",
-		"Curriculum Vitae"
+		"Curriculum Vitae",
+		"profile"
 	]
 }

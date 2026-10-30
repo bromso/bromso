@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest a section, a skill I should learn, or a change to the person described.
+title: "feat: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it make this repository, or its maintainer, better?
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope
+      options:
+        - label: This is about the README
+        - label: This is about the tooling in the repository
+        - label: This is a feature request for the human and may take a few years
